@@ -14,7 +14,7 @@ Interactive Excel dashboard analyzing customer churn for Databel, with dynamic v
 - [Datacamp's Metadata Sheet](/databel-customer-churn-metadata-sheet.pdf)
 - [Changelog: Raw Data to Dashboard](/changelog.md)
 - [Excel Dashboard](/databel-customer-churn-dashboard.xlsx)
-- [Video Walkthrough](/databel-dashboard-walkthrough.mp4)
+- [Video Walkthrough](https://youtube.com/shorts/r6aLs53EUxs)
 
 ## Project Overview
 
